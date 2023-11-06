@@ -1,0 +1,6 @@
+
+* Trước khi chơi nên tắc các phần mềm diệt virus do máy hiểu nhầm phần mềm không xác thực
+* File để chơi nằm trong thư mục Game, có biểu tượng con mèo.exe ( nếu không có thì giải nén file zip và nhớ kiểm tra phần mềm diệt virut đã tắt chưa)
+--------------------------------Admin: Võ Chí Trung--------------------------------
+Cảm ơn bạn đã chịu khó đọc file hướng dẫn quan trọng này !
+Chúc bạn chơi vượt qua mốc 100đ, Admin được tận 500đ :>>>
